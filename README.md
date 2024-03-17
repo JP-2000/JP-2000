@@ -13,6 +13,7 @@ When I'm not coding, you'll find me honing my skills and seeking the perfect alg
 - 🌱 I’m currently learning
     - Java
     - Angular
+    - PostgreSQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Database Design.
 - 📫 How to reach me: jpwork1482000@gmail.com
