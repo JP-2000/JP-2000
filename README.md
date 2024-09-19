@@ -16,7 +16,7 @@ When I'm not coding, you'll find me honing my skills and seeking the perfect alg
     - PostgreSQL
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Database Design.
-- 📫 How to reach me: jpwork1482000@gmail.com
+- 📫 How to reach me: patel.jiten.work@gmail.com
 - 😌 Apart from work, I am also interested in Football, Movies, TV Shows, Gaming and a little bit of Chess ♞. 
 - ⚡ Fun fact: Why do Java developers wear glasses? _Because they can't C# !_ 
  
