@@ -4,8 +4,8 @@
 
 
 ## **Konichiwa** ⛩️
-### Hi, I'm Jiten Patel,
-I enjoy building things, figuring out how they work, and occasionally breaking them along the way. I like simple solutions, clean code, and taking a pragmatic approach to solving problems.
+### I'm Jiten,
+I enjoy learning new things, understanding how they work, and finding simple solutions to everyday problems. I like building things, experimenting with ideas, and occasionally making things more complicated than they need to be. Still figuring things out, one problem at a time.
 
 - **Editor:** Neovim 🗿
 - **Current OS:** Fedora
