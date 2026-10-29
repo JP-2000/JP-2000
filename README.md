@@ -16,7 +16,7 @@ I enjoy learning new things, understanding how they work, and finding simple sol
 - **Philosophy:** Make it work, make it right, make it simple.
 - **Fun fact:** I spend a questionable amount of time configuring my keymaps.
 
-> Still learning. Still improving.
+> Continuous learning.
 <br>
 <p align=center><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </p>
 
