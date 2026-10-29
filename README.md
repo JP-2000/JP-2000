@@ -5,7 +5,7 @@
 
 ## **Hello, I'm Jiten** 
 
-I enjoy learning new things, understanding how they work, and finding simple solutions to everyday problems. I like building things, experimenting with ideas, and occasionally making things more complicated than they need to be. Still figuring things out, one problem at a time.
+I enjoy learning new things, taking the time to understand how they work, and finding simple solutions to everyday problems. I like building things, experimenting with ideas, and occasionally making things more complicated than they need to be. Figuring things out, one problem at a time.
 
 - **Editor:** Neovim 🗿
 - **Current OS:** Fedora
