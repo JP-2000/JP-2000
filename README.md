@@ -3,8 +3,8 @@
 <img src="Ethlu9nVgAAWY4U.jpeg" width="100%" height="auto"/> 
 
 
-## **Konichiwa** ⛩️
-### I'm Jiten,
+## **Hello, I'm Jiten** 
+
 I enjoy learning new things, understanding how they work, and finding simple solutions to everyday problems. I like building things, experimenting with ideas, and occasionally making things more complicated than they need to be. Still figuring things out, one problem at a time.
 
 - **Editor:** Neovim 🗿
